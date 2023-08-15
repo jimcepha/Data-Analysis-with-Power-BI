@@ -1,0 +1,18 @@
+
+Requirements :
+
+  Client wants a Dashboard with insights regarding the Road Accidents in the Years 2021 & 2022 with the following indicators :
+
+    1. Total Causalties and Total Accidents in the Current Year(2022) and Year-on-Year Growth.
+
+    2. Total Causalties by Accident Severity in the Current Year and Year-on-Year Growth.
+
+    3. Total Causalties with respect to Vehicle type in the Current Year.
+
+    4. Monthly Trend comparison of Causalties for Current and Previous Year.
+
+    5. Casualties by Road Type in the Current Year.
+
+    6. Current Year Causalties by Urban, Rural Areas & by Day/ Night.
+
+    7. Total Casualties and Total Accidents by Location.
